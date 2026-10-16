@@ -1,0 +1,27 @@
+# Arquivos de ambiente, credenciais e exportações
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+*.dump
+*.bak
+*.backup
+*.zip
+*.log
+
+# Dependências, ferramentas locais e saída de compilação
+node_modules/
+.wrangler/
+dist/
+build/
+.cache/
+.DS_Store
+Thumbs.db
