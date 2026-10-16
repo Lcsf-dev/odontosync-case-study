@@ -10,7 +10,7 @@ Esta apresentação descreve os controles de forma conceitual. Configurações, 
 
 ## 📄 Integridade dos documentos
 
-Receitas e pedidos de radiografia preservam as informações utilizadas na emissão. Rascunhos podem ser preparados e revisados pelo profissional responsável; a assinatura finaliza o documento e bloqueia sua edição.
+Receitas e pedidos de radiografia preservam as informações de identificação utilizadas na emissão. O responsável pode corrigir o conteúdo mediante senha; salvar a correção substitui a assinatura anterior e exige nova assinatura para manter o documento assinado. A exclusão também exige confirmação por senha e respeita as permissões de acesso.
 
 A assinatura coletada na tela é uma imagem manuscrita. Este case não apresenta essa funcionalidade como certificação digital.
 

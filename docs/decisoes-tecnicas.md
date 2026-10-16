@@ -28,7 +28,7 @@
 
 **Objetivo:** conservar o conteúdo de um documento após alterações nos cadastros.
 
-**Implementação:** cada emissão registra os dados usados no documento. Receitas e radiografias possuem rascunhos editáveis pelo responsável e bloqueio de edição após assinatura.
+**Implementação:** cada emissão registra os dados usados no documento. Receitas e radiografias permitem edição pelo responsável e exclusão mediante confirmação por senha. Ao salvar uma alteração, a assinatura anterior é substituída por uma nova assinatura ou o documento volta a ser um rascunho.
 
 **Implicação:** o histórico mantém informações próprias do momento da emissão. Correções em documentos finalizados exigem uma nova emissão.
 

@@ -41,7 +41,8 @@ flowchart LR
     rascunho --> revisao["Revisão pelo responsável"]
     revisao --> assinatura["Documento assinado"]
     assinatura --> pdf["PDF para download"]
-    assinatura --> nova["Nova emissão quando houver correção"]
+    assinatura --> correcao["Correção pelo responsável com senha"]
+    correcao --> revisao
 ```
 
 Os dados utilizados em cada emissão são preservados. Alterar posteriormente o cadastro do paciente ou do medicamento mantém o conteúdo do documento anterior.

@@ -31,7 +31,7 @@ O profissional seleciona o modelo para preencher a receita e pode ajustar o cont
 | Receita | Medicamentos cadastrados, inclusão manual e texto livre. |
 | Pedido de radiografia | Seleção de exames, regiões, objetivo, formato de entrega e observações. |
 
-Os dois fluxos incluem identificação do paciente e do profissional, data gerada pelo sistema, assinatura na tela e geração de PDF. É possível guardar um rascunho e retomá-lo antes de assinar.
+Os dois fluxos incluem identificação do paciente e do profissional, data gerada pelo sistema, assinatura na tela e geração de PDF. É possível guardar um rascunho, editar e salvar com confirmação por senha ou excluir um documento. A edição de um documento assinado permite assinar novamente ou salvar como rascunho.
 
 ## 📄 Termos e comprovantes
 

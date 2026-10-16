@@ -103,7 +103,7 @@ Detalhamento: [arquitetura](docs/arquitetura.md).
 | **Interface e API na mesma implantação** | Simplificar entrega e operação. | Manter responsabilidades separadas dentro do projeto. |
 | **Permissões verificadas no servidor** | Controlar o acesso às informações clínicas e administrativas. | Restrições visuais precisam ser acompanhadas de validação dos serviços. |
 | **Dados preservados na emissão** | Manter documentos consistentes após mudanças nos cadastros. | Armazenar os dados utilizados em cada documento. |
-| **Rascunhos e documentos assinados** | Permitir preparação e revisão antes da finalização. | Correções em documentos assinados geram uma nova emissão. |
+| **Rascunhos e documentos assinados** | Permitir preparação e revisão pelo responsável. | Receitas e radiografias podem ser corrigidas com confirmação por senha; a assinatura anterior é substituída. |
 | **PDF no navegador** | Gerar e baixar o arquivo no dispositivo. | Tratar paginação, conteúdo extenso e inspeção visual. |
 | **Modelos de medicamentos** | Reaproveitar orientações cadastradas. | Ajustes individuais na receita preservam o modelo original. |
 | **Migrações e controle de versão** | Evoluir um sistema que já está em uso. | Avaliar compatibilidade e preservação dos registros existentes. |
